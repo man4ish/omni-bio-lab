@@ -1,4 +1,4 @@
-# BioStudio
+# omni-bio-lab
 
 A modular Django-based bioinformatics web application that integrates tools for genomic data visualization, machine learning prediction, variant annotation, and pathway enrichment analysis.
 
